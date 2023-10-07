@@ -1,0 +1,74 @@
+.hiddenPart {
+    display: none;
+}
+
+.head1 {
+    position: absolute;
+    z-index: 10;
+    width: 121px;
+    left: 205px;
+    top: 593px;
+}
+
+.head2 {
+    position: absolute;
+    z-index: 10;
+    width: 121px;
+    left: 205px;
+    top: 593px;
+}
+
+.head3 {
+    position: absolute;
+    z-index: 10;
+    width: 121px;
+    left: 205px;
+    top: 593px;
+}
+
+.body1 {
+    position: absolute;
+    z-index: 10;
+    width: 114px;
+    left: 208px;
+    top: 652px;
+}
+
+.body2 {
+    position: absolute;
+    z-index: 10;
+    width: 114px;
+    left: 208px;
+    top: 652px;
+}
+.body3 {
+    position: absolute;
+    z-index: 10;
+    width: 114px;
+    left: 208px;
+    top: 652px;
+}
+
+.weapon1 {
+    position: absolute;
+    z-index: 10;
+    width: 100px;
+    left: 315px;
+    top: 649px
+}
+
+.weapon2 {
+    position: absolute;
+    z-index: 10;
+    width: 100px;
+    left: 315px;
+    top: 649px
+}
+
+.weapon3 {
+    position: absolute;
+    z-index: 10;
+    width: 100px;
+    left: 315px;
+    top: 649px
+}
